@@ -33,4 +33,6 @@ party. If you delete the App without backing up to your Drive, your local data w
 MyPepSquad does not collect any information from anyone, including children under the age of 13.5. 
 
 Contact Me
-If you have any questions regarding this Privacy Policy or the App, please contact me at:Email: shenaniganeer.studios@gmail.com
+
+If you have any questions regarding this Privacy Policy or the App, please contact me at:
+Email: shenaniganeer.studios@gmail.com
