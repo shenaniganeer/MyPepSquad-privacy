@@ -32,6 +32,4 @@ This Privacy Policy describes how Shenaniganeer Studios handles information in r
 
 **Contact Me**
 
-  If you have any questions regarding this Privacy Policy or the App, please contact me at:
-  
-  Email: shenaniganeer.studios@gmail.com
+  If you have any questions regarding this Privacy Policy or the App, please contact shenaniganeer.studios@gmail.com.
